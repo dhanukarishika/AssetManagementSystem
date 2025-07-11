@@ -39,19 +39,6 @@ A role-based desktop application to manage assets in an organization — built w
 - **iText** for exporting PDF reports
 - **JavaMail** for sending emails
 
----
-
-## 📷 Screenshots
-
-> *(Upload images in `/screenshots` and embed below)*
-
-| Login Screen | Admin Dashboard |
-|--------------|-----------------|
-| ![Login](screenshots/login.png) | ![Admin](screenshots/admin_dashboard.png) |
-
-| Asset Register | Depreciation Report |
-|----------------|---------------------|
-| ![Register](screenshots/asset_register.png) | ![Report](screenshots/depreciation_report.png) |
 
 ---
 
